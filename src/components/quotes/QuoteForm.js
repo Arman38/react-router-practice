@@ -25,6 +25,7 @@ const QuoteForm = (props) => {
 
   const formFocusedHandler = () => {
     setEntering(true)
+    
   }
  
   return (
